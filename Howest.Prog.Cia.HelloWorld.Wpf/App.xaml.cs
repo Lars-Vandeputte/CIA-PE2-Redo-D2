@@ -8,9 +8,9 @@ using System.Windows;
 
 namespace Howest.Prog.Cia.HelloWorld.Wpf
 {
-/// <summary>
-/// Interaction logic for App.xaml
-/// </summary>
+    /// <summary>
+    /// Interaction logic for App.xaml
+    /// </summary>
     public partial class App : Application
     {
     }
