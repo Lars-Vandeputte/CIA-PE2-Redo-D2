@@ -9,10 +9,9 @@ namespace Howest.Prog.Cia.HelloWorld.Wpf
     {
         public MainWindow() { InitializeComponent(); }
 
-        private void Button_Click (object sender, 
-            RoutedEventArgs e)
+        private void Button_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show( "Hello World!");
+            MessageBox.Show("Hello World!");
         }
     }
 }
